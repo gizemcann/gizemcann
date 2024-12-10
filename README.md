@@ -6,13 +6,13 @@
 
 ## :raising_hand: About me
 <h3  align="left">:computer: I am a Geomatics Engineer </br>  :beginner:  I took lessons Up School - Mobile Developer Program and Data Analyst. Also I'm taking Web Development Bootcamp 2024 Udemy.
- </br> :orange_book: I'm learning Android, Kotlin and SQL </br> :email: You can get in contact with me via gizemcn98gmail.com</h3>
+ </br> :orange_book: I'm learning Java,Android, PostgreSQL, HTML, CSS, JS and try to produce projects in web and mobile development.  </br> :email: You can get in contact with me via gizemcn98gmail.com</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gizemcann&label=Profile%20views&color=0e75b6&style=flat" alt="gizemcann" /> </p>
 
 <h3 align="left">:speech_balloon: Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gizem-c-b6ba42182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gizem-c-b6ba42182" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/gizem-c-b6ba42182](https://www.linkedin.com/in/gizem-can)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gizem-c-b6ba42182" height="30" width="40" /></a>
 <a href="https://instagram.com/gzmcnnnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gzmcnnnn" height="30" width="40" /></a>
 </p>
 
